@@ -12,5 +12,7 @@
 **/draft
 *.zip
 **/model
+
 *.docx
+
 **/data
