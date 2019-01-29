@@ -11,8 +11,6 @@
 *.npy
 **/draft
 *.zip
-**/model
-
+**/models
 *.docx
-
 **/data
