@@ -9,7 +9,6 @@
 *.h5
 *.h5c
 *.npy
-**/draft
 *.zip
 **/models
 *.docx
